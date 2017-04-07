@@ -5,7 +5,7 @@ public class jurnal1{
 		Scanner scn = new Scanner(System.in);
 		System.out.print("Masukkan Angka : ");
 		int x = show.nextInt();
-		long fibo[] = new long[];
+		long fibo[] = new long[x];
 		fibo[0]=0;
 		fibo[1]=1;
 		
